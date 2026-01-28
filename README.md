@@ -1,3 +1,5 @@
+[English](README_en.md) | 中文
+
 # Time Screen - 极简翻页时钟屏幕保护程序
 
 ![示例图片](示例图片.png)

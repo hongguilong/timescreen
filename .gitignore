@@ -48,4 +48,6 @@ app.*.map.json
 
 # Custom artifacts
 release/
+releases/
 *.scr
+pubspec.lock
